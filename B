@@ -1,9 +1,9 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+plocal Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("LMAO GUI", "DarkTheme")
 
 
 local Tab = Window:NewTab("Main")
-local MainSection = Main:NewSection("Section Name")
+local MainSection = Main:NewSection("Sussy fortnite balls")
 
 
 MainSection:NewButton("Punch Fling", "haha i like ya cut g but harder", function()
